@@ -10,8 +10,8 @@ This course teaches students about algorithms, using the programming languages i
 
 There are nine porblems set, including a final project which students are expected to submit.
 
-## Here are the task below, which I have implented through this project on the entry level of Computer Science and below are my projects that I have demonstrated my skills 
-## On programming. This is my career path in becoming a Software Developer.
+Here are the task below, which I have implented through this project on the entry level of Computer Science and below are my projects that I have demonstrated my skills 
+On programming. This is my career path in becoming a Software Developer.
 
 ## Table of contents
 
