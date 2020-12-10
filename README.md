@@ -10,23 +10,66 @@ This course teaches students about algorithms, using the programming languages i
 
 There are nine porblems set, including a final project which students are expected to submit.
 
+## Here are the task below, which I have implented through this project on the entry level of Computer Science and below are my projects that I have demonstrated my skills 
+## On programming. This is my career path in becoming a Software Developer.
 
 ## Table of contents
 
-## Here are the task below, that I have implented through this project
+### Problem Set 0 Scratch 
 
-* [problem set 0]-[Assignment 0] (https://cs50.harvard.edu/x/2020/weeks/0/)
 * [scratch] This is my  first introduction of my scratch programme that I've created on here (https://scratch.mit.edu/mystuff/)
  
-  [problem set 1]-[Assignment 1](https://cs50.harvard.edu/x/2020/weeks/1/)
-* [hello] (https://github.com/me50/chunky89/blob/c286ad547c45a460e8881aa3edfa0b7b943e9709/hello.c)
-* [mario less] (https://github.com/me50/chunky89/blob/bfd40486cc5d639862dab5ee38f66b9a62884875/mario.c)
-* [cash] (https://github.com/me50/chunky89/blob/6ce388c95a3aafa32aecb7622a5722ffd562411a/cash.c)
-* [mario more] (https://github.com/me50/chunky89/blob/9b2b41422c20f4be79d0204e4ac9c981ea65df87/mario.c)
-* [credi] (https://github.com/me50/chunky89/blob/dc469e06678ac108b960ea13f79e7e1b837b235f/credit.c)
+ ### Problem Set 1   
+ 
+ Hello, Mario Less, Mario More, Cash Credit
+ 
+ ### Problem Set 2
+ 
+ Readbility and Ceasar
+ 
+ ### Problem Set 3
+ 
+ Plurality and Runoff
+ 
+ ### Problem Set 4
+ 
+ Filter Less and Recover
+ 
+ ### Problem Set 5
+ 
+ Speller
+ 
+ ### Problem Set 6 (Python)
+ 
+ Hello, Mario Less, Mario More, Cash, Readability and DNA
+ 
+ ### Problem Set 7 (SQL)
+ 
+ Movies and Houses
 
-* [problem set 2]-[Assignment 2] 
+### Problem Set 8 (HTML)
 
+Web Homepage and Web Finance
+
+## Problem Sets
+
+Week 0: Scratch
+
+Week 1: C
+
+Week 2: Arrays 
+
+Week 3: Algorithm
+
+Week 4: Memory
+
+Week 5: Data Structures
+
+Week 6: Python
+
+Week 7: SQL
+
+Week 8: Information
 
 
 
